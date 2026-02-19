@@ -16,6 +16,6 @@ Currently Learning: Advanced JavaScript Concepts (DOM, APIs)
 
 📫 How to reach me: shivambhardwaj1972@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/shivam-bhardwaj-dev/
 
 📊 GitHub Stats
