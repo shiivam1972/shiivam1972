@@ -22,4 +22,4 @@ I am a passionate web developer currently working as a Front End Developer Inter
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/shivam-bhardwaj-dev/
 
-### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=shiivam1972&theme=radical)
