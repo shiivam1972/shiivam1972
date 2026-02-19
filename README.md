@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Shivam Bhardwaj! 👋
+Aspiring Full Stack Developer | Final Year Student
+I am a passionate web developer currently working as a Front End Developer Intern at Graphura India Private Limited. I love building interactive and responsive web applications and am always eager to learn new technologies.
 
-<!--
-**shiivam1972/shiivam1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack & Skills
+Languages & Core: HTML5, CSS3, JavaScript (ES6+)
 
-Here are some ideas to get you started:
+Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning: Advanced JavaScript Concepts (DOM, APIs)
+
+🚀 What I'm Up To
+🔭 I am currently interning as a Front End Developer.
+
+🌱 I am diving deep into JavaScript and modern web practices.
+
+📫 How to reach me: shivambhardwaj1972@gmail.com
+
+🔗 LinkedIn: 
+
+📊 GitHub Stats
